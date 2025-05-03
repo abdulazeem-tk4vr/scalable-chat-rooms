@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
 
+# Build output
+dist/
+
 # Environment files (optional, if you ever add env vars)
 .env
 .env.local
