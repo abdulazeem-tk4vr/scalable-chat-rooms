@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Environment files (optional, if you ever add env vars)
+.env
+.env.local
+
+# Logs (optional, useful to ignore if you have logs)
+logs/
+*.log
+
+# MacOS (optional, ignore system files)
+.DS_Store
+
+# Docker (optional, ignore Docker volumes if you ever add them)
+docker-volume/
+
+# VSCode settings (optional, ignore local IDE settings)
+.vscode/
